@@ -10,7 +10,7 @@ Aplikasi ini menggunakan model Machine Learning yang telah dilatih dan disimpan 
 
 Deploy menggunakan **Streamlit Cloud**
 
-🔗 Live App: *(isi dengan link streamlit kamu nanti)*
+🔗 Live App: *[(https://spamemaildetectionapps.streamlit.app/)]*
 
 ---
 
